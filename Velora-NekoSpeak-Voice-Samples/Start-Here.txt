@@ -1,0 +1,7 @@
+NekoSpeak voice references for Velora
+
+All six files: WAV, 24 kHz, mono, 16-bit PCM, under 30 seconds. Original MP3s are untouched. No pitch or speed changes; only outer quiet padding and overlong clips were trimmed.
+
+On the S25: NekoSpeak > Settings > AI Model > download/select Pocket-TTS. Then Voices > Clone Voice > Upload Audio File > Internal storage > Download > Velora-Voice-Samples. Start with Velora-Sample-03.wav (22.15 seconds, full spoken section retained). Name it Velora 03, clone, select it and test a sentence. Each reference makes a separate voice profile; these are not a six-file training dataset.
+
+Try other files separately if needed. Audio format, decoded signal and file transfer were checked; perceptual voice quality and cloning results have not yet been evaluated.
